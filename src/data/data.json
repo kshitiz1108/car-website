@@ -1,0 +1,222 @@
+{
+  
+  "properties": [
+    {
+      "id": 1,
+      "name": "BMW Xi",
+  
+      "people": 4,
+      "fuel": "Hybrid",
+      "average": "3km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Pecan St.",
+       "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Audi A8",
+    
+      "people": 5,
+      "fuel": "Gasoline",
+      "average": "1km",
+      "price": 350,
+      "type": "Automatic",
+      "location": "8558 Parker Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BMW Z4",
+ 
+      "people": 4,
+      "fuel": "Gasoline",
+      "average": "1km",
+      "price": 400,
+      "type":"Automatic",
+      "location": "3890 Poplar Dr.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BMW Xi",
+   
+      "people": 4,
+      "fuel": "Gasoline",
+      "average": "4km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Green Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 5,
+      "name": "BMW Z4",
+  
+      "people": 5,
+      "fuel": "Hybrid",
+      "average": "3km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Pecan St.",
+       "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+      
+    },
+    {
+      "id": 6,
+      "name": "Audi A8",
+    
+      "people": 6,
+      "fuel": "Gasoline",
+      "average": "1km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Parker Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BMW Xi",
+ 
+      "people": 6,
+      "fuel": "Hybrid",
+      "average": "1km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "3890 Poplar Dr.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BMW Xi",
+   
+      "people": 5,
+      "fuel": "Gasoline",
+      "average": "4km",
+      "price": 440,
+      "type":"Automatic",
+      "location": "8558 Green Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 9,
+      "name": "BMW Z4",
+  
+      "people": 5,
+      "fuel": "Gasoline",
+      "average": "3km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Pecan St.",
+       "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+      
+    },
+    {
+      "id": 10,
+      "name": "Audi A8",
+      
+      "people": 4,
+      "fuel": "Gasoline",
+      "average": "1km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Parker Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 11,
+      "name": "BMW Xi",
+ 
+      "people": 3,
+      "fuel": "Hybrid",
+      "average": "1km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "3890 Poplar Dr.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 12,
+      "name": "BMW Xi",
+   
+      "people": 5,
+      "fuel": "Gasoline",
+      "average": "4km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Green Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 13,
+      "name": "BMW Z4",
+  
+      "people": 5,
+      "fuel": "Hybrid",
+      "average": "3km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Pecan St.",
+       "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+      
+    },
+    {
+      "id": 14,
+      "name": "Audi A8",
+    
+      "people": 6,
+      "fuel": "Hybrid",
+      "average": "1km",
+      "price": 440,
+      "type":"Automatic",
+      "location": "8558 Parker Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 15,
+      "name": "BMW Xi",
+ 
+      "people": 6,
+      "fuel": "Gasoline",
+      "average": "1km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "3890 Poplar Dr.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+    },
+    {
+      "id": 16,
+      "name": "BMW Xi",
+   
+      "people": 4,
+      "fuel": "Hybrid",
+      "average": "4km",
+      "price": 440,
+      "type": "Automatic",
+      "location": "8558 Green Rd.",
+      "year":2021,
+      "image": "../assets/manhattan-dusk.jpg"
+      
+    }
+    
+    
+  ]
+}
+
+  
